@@ -36,7 +36,7 @@ body {
 }
 
 .site-back {
-    background: var(--site-background);
+    background-image: var(--site-background);
     height: 100%;
     width: 100%;
     opacity: 100%;
